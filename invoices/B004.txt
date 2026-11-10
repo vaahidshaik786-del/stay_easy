@@ -1,0 +1,12 @@
+STAY EASY HOTEL INVOICE
+-----------------------
+Booking ID: B004
+Guest Name: Abdul
+Mobile: 6789012345
+Room Number: 201
+Room Type: Deluxe
+Check-in: 2026-11-18
+Check-out: 2026-11-20
+Guests: 2
+Breakfast Selected: False
+Total Amount: Rs. 8960

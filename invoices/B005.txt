@@ -1,0 +1,20 @@
+STAY EASY HOTEL INVOICE
+-----------------------
+Booking ID: B005
+Guest Name: Harsha
+Mobile: 7689012345
+Email: harsha@gmail.com
+Room Number: 301
+Room Type: Suite
+Check-in: 2026-11-08
+Check-out: 2026-11-09
+Guests: 2
+Breakfast Selected: False
+Base Charge: Rs. 7500.00
+Weekend Surcharge: Rs. 0.00
+Extra Guest Charge: Rs. 0.00
+Breakfast Charge: Rs. 0.00
+Long Stay Discount: Rs. 0.00
+Loyalty Discount: Rs. 0.00
+GST: Rs. 900.00
+Total Amount: Rs. 8400.00
